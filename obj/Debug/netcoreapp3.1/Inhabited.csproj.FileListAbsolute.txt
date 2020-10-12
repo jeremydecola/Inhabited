@@ -1,0 +1,13 @@
+C:\Users\Jeremy\Desktop\CODE\Inhabited\bin\Debug\netcoreapp3.1\Inhabited.exe
+C:\Users\Jeremy\Desktop\CODE\Inhabited\bin\Debug\netcoreapp3.1\Inhabited.deps.json
+C:\Users\Jeremy\Desktop\CODE\Inhabited\bin\Debug\netcoreapp3.1\Inhabited.runtimeconfig.json
+C:\Users\Jeremy\Desktop\CODE\Inhabited\bin\Debug\netcoreapp3.1\Inhabited.runtimeconfig.dev.json
+C:\Users\Jeremy\Desktop\CODE\Inhabited\bin\Debug\netcoreapp3.1\Inhabited.dll
+C:\Users\Jeremy\Desktop\CODE\Inhabited\bin\Debug\netcoreapp3.1\Inhabited.pdb
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.dll
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.pdb
+C:\Users\Jeremy\Desktop\CODE\Inhabited\obj\Debug\netcoreapp3.1\Inhabited.genruntimeconfig.cache

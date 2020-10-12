@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nodes>
+    <TextNode>
+      <NodeID>0</NodeID>
+      <Text>Are you kidding me?</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>1</NodeID>
+      <Text>Of all fucking times to get caught out in a snowstorm...</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>2</NodeID>
+      <Text>Damn it, I can't see shit...</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>3</NodeID>
+      <Text>I'd better take the next exit.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>4</NodeID>
+      <Text>You can barely make out a building in the distance. Seems like a diner. The sign reads 'Gigi's - All natural American Beef'</Text>
+      <Options>
+        <TextOption>
+          <Text>Stay in the car</Text>
+          <DestID>5</DestID>
+        </TextOption>
+        <TextOption>
+          <Text>Go inside</Text>
+          <DestID>6</DestID>
+        </TextOption>
+      </Options>
+    </TextNode>
+    <TextNode>
+      <NodeID>5</NodeID>
+      <Text>You catch a glimpse of the headlights of a 16 wheeler just before it loses control and pulverizes your car. You are Dead...</Text>
+      <Options>
+        <TextOption>
+          <Text>Continue</Text>
+          <DestID>0</DestID>
+        </TextOption>
+        <TextOption>
+          <Text>Exit Game</Text>
+          <DestID>-1</DestID>
+        </TextOption>
+      </Options>
+    </TextNode>
+    <TextNode>
+      <NodeID>6</NodeID>
+      <Text>You walk into the diner.</Text>
+      <Options />
+    </TextNode>
+  </Nodes>
+</Text>
