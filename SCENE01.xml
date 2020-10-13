@@ -4,21 +4,25 @@
     <TextNode>
       <NodeID>0</NodeID>
       <Text>Are you kidding me?</Text>
+      <Actor>Bennet</Actor>
       <Options />
     </TextNode>
     <TextNode>
       <NodeID>1</NodeID>
       <Text>Of all fucking times to get caught out in a snowstorm...</Text>
+      <Actor>Bennet</Actor>
       <Options />
     </TextNode>
     <TextNode>
       <NodeID>2</NodeID>
       <Text>Damn it, I can't see shit...</Text>
+      <Actor>Bennet</Actor>
       <Options />
     </TextNode>
     <TextNode>
       <NodeID>3</NodeID>
       <Text>I'd better take the next exit.</Text>
+      <Actor>Bennet</Actor>
       <Options />
     </TextNode>
     <TextNode>
@@ -52,6 +56,198 @@
     <TextNode>
       <NodeID>6</NodeID>
       <Text>You walk into the diner.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>7</NodeID>
+      <Text>Welcome to Gigi's hun. Take a seat wherever you'd like.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>8</NodeID>
+      <Text>You grab a seat by the window and check your phone.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>9</NodeID>
+      <Text>No reception. Come on! I'm supposed to report in right now. Shit...</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>10</NodeID>
+      <Text>You stand up and walk to the counter.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>11</NodeID>
+      <Text>Need something hun? I was just about to come over.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>12</NodeID>
+      <Text>Sorry, Anna was it? Do you happen to have a phone I could use?</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>13</NodeID>
+      <Text>We had a phone... then it grew hands and started climbing up the wall.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>14</NodeID>
+      <Text>What? Listen... I don't have time for games Anna. I need to place a call.</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>15</NodeID>
+      <Text>Well, good luck with that. Now are you going to order something or not?</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>16</NodeID>
+      <Text>Forget it. I'm going.</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>17</NodeID>
+      <Text>You head to the door and try to open. It won't budge.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>18</NodeID>
+      <Text>Hey! What gives? I can't open the door!</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>19</NodeID>
+      <Text>The blizzard must have burried the door in snow.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>20</NodeID>
+      <Text>I've been here a whole 5 minutes... You've got to be kidding me.</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>21</NodeID>
+      <Text>I take it you're not from around these parts.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>22</NodeID>
+      <Text>The firemen should clear the mound in the morning. Why don't you order something?</Text>
+      <Actor>Anna</Actor>
+      <Options>
+        <TextOption>
+          <Text>Gigi Burger</Text>
+          <DestID>23</DestID>
+        </TextOption>
+        <TextOption>
+          <Text>Vanilla Shake</Text>
+          <DestID>24</DestID>
+        </TextOption>
+        <TextOption>
+          <Text>Black Coffee</Text>
+          <DestID>25</DestID>
+        </TextOption>
+      </Options>
+    </TextNode>
+    <TextNode>
+      <NodeID>23</NodeID>
+      <Text>I'm sorry, we're all out of burgers... Any else catch your eye?</Text>
+      <Actor>Anna</Actor>
+      <Options>
+        <TextOption>
+          <Text>Vanilla Shake</Text>
+          <DestID>24</DestID>
+        </TextOption>
+        <TextOption>
+          <Text>Black Coffee</Text>
+          <DestID>25</DestID>
+        </TextOption>
+      </Options>
+    </TextNode>
+    <TextNode>
+      <NodeID>24</NodeID>
+      <Text>I'm sorry, we're all out milk... Would you care for anything else?</Text>
+      <Actor>Anna</Actor>
+      <Options>
+        <TextOption>
+          <Text>Gigi Burger</Text>
+          <DestID>23</DestID>
+        </TextOption>
+        <TextOption>
+          <Text>Black Coffee</Text>
+          <DestID>25</DestID>
+        </TextOption>
+      </Options>
+    </TextNode>
+    <TextNode>
+      <NodeID>25</NodeID>
+      <Text>I'm sorry, we have a special way of serving our coffee, is that ok?</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>26</NodeID>
+      <Text>Fine... whatever.</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>27</NodeID>
+      <Text>Why don't you go back to your seat? I'll go make that coffee for you.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>28</NodeID>
+      <Text>You walk back to your seat.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>29</NodeID>
+      <Text>A few moments pass and Anna arrives with a generously sized white mug in her hands.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>30</NodeID>
+      <Text>Our special house blend. Always served with 3 Laits et 1 Sucre.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>31</NodeID>
+      <Text>I'm sorry... What?</Text>
+      <Actor>Bennet</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>32</NodeID>
+      <Text>It's French for 3 Milks and 1 Sugar.</Text>
+      <Actor>Anna</Actor>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>33</NodeID>
+      <Text>Anna places the coffee on a tray in front of you.</Text>
+      <Options />
+    </TextNode>
+    <TextNode>
+      <NodeID>34</NodeID>
+      <Text>Near your cup are the empty containers of milk and sugar, labeled L and S respectively.</Text>
       <Options />
     </TextNode>
   </Nodes>
